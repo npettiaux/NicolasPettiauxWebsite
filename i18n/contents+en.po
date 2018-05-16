@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-16 05:35+CET\n"
+"PO-Revision-Date: 2018-05-16 05:35+CET\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: http://localhost/bio/ (content/bio/contents.lr:page.title)
+msgid "Bio"
+msgstr "Bio"
+
+#: http://localhost/blog/ (content/blog/contents.lr:blog.title)
+msgid "Blog"
+msgstr "Blog"
+
+#: http://localhost/blog/first-post/
+#: (content/blog/first-post/contents.lr:blog-post.title)
+msgid "Hello Website"
+msgstr "Hello Website"
+
+#: http://localhost/projects/sailing/
+#: (content/projects/sailing/contents.lr:page.title)
+msgid "Sailing"
+msgstr "Sailing"
+
+#: http://localhost/ (content/contents.lr:page.body)
+msgid "A simple website with a blog."
+msgstr "A simple website with a blog."
+
+#: http://localhost/about/ (content/about/contents.lr:page.body)
+msgid ""
+"Any help, suggestion, comment, translation is most welcome. Please clone and "
+"contribute."
+msgstr ""
+"Any help, suggestion, comment, translation is most welcome. Please clone and "
+"contribute."
+
+#: http://localhost/about/ (content/about/contents.lr:page.body)
+msgid ""
+"This  website is made with the [Lektor](https://getlektor.com) free software "
+"and is developped on [github](https://github.com/npettiaux/"
+"NicolasPettiauxWebsite)"
+msgstr ""
+"This  website is made with the [Lektor](https://getlektor.com) free software "
+"and is developped on [github](https://github.com/npettiaux/"
+"NicolasPettiauxWebsite)"
+
+#: http://localhost/ (content/contents.lr:page.body)
+msgid ""
+"Here are some topics that I try to contribute to, as « knowledge has only "
+"any worth as long as it is shared »."
+msgstr ""
+"Here are some topics that I try to contribute to, as « knowledge has only "
+"any worth as long as it is shared »."
+
+#: http://localhost/bio/ (content/bio/contents.lr:page.body)
+msgid "Some bits about my life"
+msgstr "Some bits about my life"
+
+#: http://localhost/ (content/contents.lr:page.title)
+msgid "Welcome to Nicolas Pettiaux's website"
+msgstr "Welcome to Nicolas Pettiaux's website"
+
+#: http://localhost/blog/first-post/
+#: (content/blog/first-post/contents.lr:blog-post.body)
+msgid ""
+"This is an example blog post.  Not much here but that's not the point :)"
+msgstr ""
+"This is an example blog post.  Not much here but that's not the point :)"
+
+#: http://localhost/blog/first-post/
+#: (content/blog/first-post/contents.lr:blog-post.author)
+msgid "Nicolas Pettiaux,,,"
+msgstr "Nicolas Pettiaux,,,"
+
+#: http://localhost/projects/ (content/projects/contents.lr:page.body)
+msgid "* Project 2"
+msgstr "* Project 2"
+
+#: http://localhost/projects/ (content/projects/contents.lr:page.body)
+msgid "* Project 3"
+msgstr "* Project 3"
+
+#: http://localhost/projects/ (content/projects/contents.lr:page.body)
+msgid "* Project 1"
+msgstr "* Project 1"
+
+#: http://localhost/projects/ (content/projects/contents.lr:page.body)
+msgid "This is a list of the projects:"
+msgstr "This is a list of the projects:"
+
+#: http://localhost/about/ (content/about/contents.lr:page.title)
+msgid "About this Website"
+msgstr "About this Website"
+
+#: http://localhost/projects/ (content/projects/contents.lr:page.title)
+msgid "Projects"
+msgstr "Projects"
